@@ -14,3 +14,8 @@ Core functionality for file handling and extraction is under development.
 The user interface design is in progress.
 We are actively working on integrating all components to ensure a seamless experience.
 We appreciate your patience and understanding as we continue to improve and refine this new installer. Stay tuned for updates and thank you for your support!
+
+<a href="https://cursed-entertainment.itch.io/" target="_blank">
+    <img src="https://github.com/CursedPrograms/cursedentertainment/raw/main/images/logos/logo-wide-grey.png"
+        alt="CursedEntertainment Logo">
+</a>
